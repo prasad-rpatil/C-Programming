@@ -1,10 +1,10 @@
-#C Programming Practice Repository
+C Programming Practice Repository
 
-#Overview
+Overview
 
 This repository contains my C programming practice programs created while learning the fundamentals of the C language. The programs cover basic syntax, problem-solving techniques, functions, arrays, pointers, strings, recursion, and other core programming concepts.
 
-#Topics Covered
+Topics Covered
 
 - Basic Input and Output
 - Variables and Data Types
@@ -24,20 +24,20 @@ This repository contains my C programming practice programs created while learni
 - Searching and Sorting Algorithms
 - Miscellaneous Problem-Solving Programs
 
-#Purpose
+Purpose
 
 The primary objective of this repository is to strengthen my understanding of C programming by implementing various concepts and solving programming problems. It also serves as a reference for revision and interview preparation.
 
-#Technologies Used
+Technologies Used
 
 - Language: C
 - Compiler: GCC / Turbo C / Code::Blocks / VS Code (GCC)
 - Platform: Windows
 
-#Repository Structure
+Repository Structure
 
 Each source file focuses on a specific concept or programming problem and is organized for easy navigation and learning.
 
-#Learning Outcome
+Learning Outcome
 
 Through these programs, I have developed a strong foundation in procedural programming, logical thinking, algorithm design, debugging, and problem-solving using C.
